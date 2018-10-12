@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1515575491 source:c:\users\anonimo\desktop\snake\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1515587422 source:c:\users\anonimo\desktop\snake - copia\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1515588698 source:c:\users\pablo\google drive\dam\programacion\snake - copia\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
