@@ -1,1 +1,1 @@
-# c-Snake
+# c++ Snake
